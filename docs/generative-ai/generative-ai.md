@@ -22,10 +22,6 @@ Retrieval Augmented Generation (RAG) combines the power of information retrieval
 
 RAG is used to enhance the chatbot's ability to handle complex queries by fetching relevant data in real-time and generating responses that are not just based on fixed patterns or the model's pre-existing knowledge, but also on specific, current information retrieved during the interaction.
 
-#### How is it used for this project?
-
-In this project, RAG technology is utilized to empower both Q and Mari chatbots, enabling them to access and synthesize information from county databases and web sources seamlessly. This capability ensures that the chatbots provide timely and accurate information to user inquiries, ranging from internal policy questions to public service information.
-
 #### IBM Reference Material
 [Generative AI](https://www.ibm.com/watsonx?utm_content=SRCWW&p1=Search&p4=43700078376398807&p5=b&p9=58700008586718912&gclid=CjwKCAjwi_exBhA8EiwA_kU1MvuVGpaXUAxlZh-oCtf_lw34bCdrSRx8xmbiAZUz4gTjed7NaSgI4xoCbYsQAvD_BwE&gclsrc=aw.ds)
 

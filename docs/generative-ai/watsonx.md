@@ -36,4 +36,4 @@ watsonx Assistant is the conversational AI component used to develop and manage 
 
 Watson Discovery is an AI-powered search technology that plays a critical role in the RAG setup. It is used to quickly sift through vast amounts of data, finding the most relevant facts and figures needed by the chatbots to inform their responses. This component ensures that data retrieval is both fast and accurate, enhancing the overall responsiveness and reliability of the chatbots.
 
-This documentation is designed to provide a clear understanding of the technological framework underpinning Q and Mari, illustrating how each component contributes to their functionality and effectiveness.
+This documentation is designed to provide a clear understanding of the technological framework underpinning an AI Assistant, illustrating how each component contributes to their functionality and effectiveness.
