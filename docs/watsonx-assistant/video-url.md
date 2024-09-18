@@ -38,7 +38,7 @@ This page will demonstrate how to upload a video to Cloud Object Storage (COS), 
 Once you have obtained your Cloud Object Storage Instance, you may access the instance through the Resource List in your IBM Cloud Account. 
 Please select on the instance as shown in the screen capture below:
 
-![](.../assets/cos_url/1.png)
+![test](./assets/cos_url/1.png)
 
 ### **Step 2: Create Bucket**
 
