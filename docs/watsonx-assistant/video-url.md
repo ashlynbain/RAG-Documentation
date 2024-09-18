@@ -21,13 +21,13 @@ This page will demonstrate how to upload a video to Cloud Object Storage (COS), 
 
 4. Place generated URL within Knowledgebase Document
       - This step will vary based on what type of document you are uploading. For this walkthrough we will be using a Microsoft PowerPoint document
-      - Please see the **[Watson Discovery](./watson-discovery/WatsonDiscovery.md)** documentation section for instructions on uploading those files 
+      - Please see the **[Watson Discovery](../watson-discovery/WatsonDiscovery.md)** documentation section for instructions on uploading those files 
 
 5. Update the Return parameter in the search extension within watsonx Assistnat
-      - Please see the **[Integrations](./integrations/integrations.md)** documentation section for instructions on integrating watsonx Assistant with the knowledgebase
+      - Please see the **[Integrations](../integrations/integrations.md)** documentation section for instructions on integrating watsonx Assistant with the knowledgebase
   
 6. Create a Session Variable for the URL
-      - Please see the **[watsonx Assistant](./watsonx-assistant/index.md)** walkthrough for more information on creating session variables
+      - Please see the **[watsonx Assistant](../watsonx-assistant/index.md)** walkthrough for more information on creating session variables
   
 7. Create an iframe embedding with the Session Variable as Source
 
