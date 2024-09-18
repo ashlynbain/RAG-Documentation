@@ -21,13 +21,13 @@ This page will demonstrate how to upload a video to Cloud Object Storage (COS), 
 
 4. Place generated URL within Knowledgebase Document
       - This step will vary based on what type of document you are uploading. For this walkthrough we will be using a Microsoft PowerPoint document
-      - Please see the Watson Discovery documentation section for instructions on uploading those files 
+      - Please see the **[Watson Discovery](./watson-discovery/WatsonDiscovery.md)** documentation section for instructions on uploading those files 
 
 5. Update the Return parameter in the search extension within watsonx Assistnat
-      - Please see the Integration documentation section for instructions on integrating watsonx Assistant with the knowledgebase
+      - Please see the **[Integrations](./integrations/integrations.md)** documentation section for instructions on integrating watsonx Assistant with the knowledgebase
   
 6. Create a Session Variable for the URL
-      - Please see the watsonx Assistant Session Variable instructions for more information
+      - Please see the **[watsonx Assistant](./watsonx-assistant/index.md)** walkthrough for more information on creating session variables
   
 7. Create an iframe embedding with the Session Variable as Source
 
@@ -171,7 +171,7 @@ Paste the Generated URL in the subject of the properties panel for the document 
 
 ![](../assets/cos_url/14.png)
 
-Once this step is complete you can upload this document to your knowledgebase. For instructions on that please refer to the Watson Discovery section of this documentation.
+Once this step is complete you can upload this document to your knowledgebase. For instructions on that please refer to the **[Watson Discovery](./watson-discovery/WatsonDiscovery.md)** section of this documentation.
 
 ## Utilizing URL Walkthrough
 
@@ -233,4 +233,5 @@ See JSON below:
 ```
 
 Please note that this example is a walkthrough and not meant to be a fully built out solution. This walkthrough demonstrates one of many ways to accomplish the task of utilizing a URL of an item hosted on IBM COS. 
+
 Some of these tasks can be automated through code.
