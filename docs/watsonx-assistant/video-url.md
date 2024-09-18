@@ -64,7 +64,7 @@ Once you have created your bucket you will see it within your instance. Please s
 
 ![](../assets/cos_url/4.5.png)
 
-### **Step 6: Upload Filed**
+### **Step 6: Upload Files**
 
 In this step, you will upload the files that you want to be stored in COS. Please drag and drop your files to the grey box area. In this walkthrough example we are using a watsonx Video. 
 
